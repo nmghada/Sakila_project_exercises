@@ -10,9 +10,10 @@ It is consisted of 16 seperated tables that are connected by primary and foreign
 process of a DVD rental company. For instance, on the 'film' table, it has columns like title,  release_year, language_id, etc. Other tables 
 have similar but different information. 
 
-My job is to use this database and various SQL codes to create tables, views, triggers, stored procedures; retrieve specific pieces of data; 
-update existing data tables with new info; and delete any data from existing tables. In the meantime, I will try to write my codes as efficiently
-as possible.
+My job is to use this database and various SQL codes to create tables, views, triggers, stored procedures; to retrieve specific pieces of data; 
+to update existing data tables with new info; and to delete any data from existing tables. In the meantime, I will try to write my codes as efficiently
+as possible. Please keep in mind that I am constantly updating the queries when I come up with new questions. I might even add a completely new 
+data set if I could find any.
 
 I hope you will enjoy what I have to offer here.
 
